@@ -1,0 +1,4 @@
+This code will work correct and the output of this code will be :10
+
+In Java, non-static final variables can be assigned a value either in constructor or with the declaration. 
+But, static final variables cannot be assigned value in constructor; they must be assigned a value with their declaration or they must be assigned inside static block.

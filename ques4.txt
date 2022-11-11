@@ -1,0 +1,7 @@
+This code will not compile because:
+void is a keyword that means that a function does not result a value.
+Void is a reference type.
+As a result type (a function with a return value of type Void) it means that the function always return null.
+ it cannot return anything other than null, because Void has no instances.
+
+ Also in m1 function after the line System.out.print(a) there should be ; in place of :
